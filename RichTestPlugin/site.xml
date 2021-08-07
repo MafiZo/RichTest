@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/Richtest Feature_4.2.2.jar" id="Richtest Feature" version="4.2.2">
+      <category name="RichTest"/>
+   </feature>
+   <category-def name="RichTest" label="RichTest"/>
+</site>
